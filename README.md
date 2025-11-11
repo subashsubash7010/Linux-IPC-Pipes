@@ -1,6 +1,3 @@
-<img width="787" height="361" alt="image" src="https://github.com/user-attachments/assets/b866efb5-83b5-44ba-9a15-4d33fae3792c" /># Linux-IPC--Pipes
-Linux-IPC-Pipes
-
 
 # Ex03-Linux IPC - Pipes
 
